@@ -13,7 +13,7 @@ public class SistemPerkuliahan {
     private Perkuliahan[] dataPerkuliahans;
     private Dosen[] dataDosens;
     private Mahasiswa[] dataMahasiswas;
-    private Staff[] dataStafs;
+    private Staff[] dataStaffs;
 
     public SistemPerkuliahan() {
     }
@@ -22,7 +22,7 @@ public class SistemPerkuliahan {
         this.dataPerkuliahans = dataPerkuliahans;
         this.dataDosens = dataDosens;
         this.dataMahasiswas = dataMahasiswas;
-        this.dataStafs = dataStaffs;
+        this.dataStaffs = dataStaffs;
     }
     
     
